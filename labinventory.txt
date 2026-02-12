@@ -1,0 +1,4 @@
+45676,44,blood
+88,22,urine
+5678,105,ultrasound
+19,10000,urine

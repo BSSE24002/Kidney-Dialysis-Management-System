@@ -1,0 +1,2 @@
+1 20 ali pharmacist 900000 0
+2 23 qamar biomedical engineer 50000 0

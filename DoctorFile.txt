@@ -1,0 +1,2 @@
+Ali,General Physician,15:00-20:00
+Hamza,Kidney Specialist,12:00-18:00

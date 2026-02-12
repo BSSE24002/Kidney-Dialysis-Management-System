@@ -1,0 +1,9 @@
+L,1,dani,10/10/2010,11:11AM,urine,22
+L,10,1,10/10/2020,11:10pm,urine,22
+L,3,raheem,11/10/3000,25:61pm,blood,44
+L,5,raheem,32/12/30,13:61cm,urine,22
+M,6969,reheem,panadol,991.86
+D,13,dani,19,M,123456789,11/11/1111,YES,Peritoneal Dialysis,81000
+D,13,dani,19,M,123456789,11/11/1111,YES,Peritoneal Dialysis,90000
+D,13,dani,19,M,123456789,10/10/2024,YES,Peritoneal Dialysis,85000
+D,13,dani,19,M,123456789,10/10/2021,NO,Peritoneal Dialysis,85000
