@@ -3,7 +3,7 @@
 The **Kidney Dialysis Management System** is a software application designed to efficiently manage the operations of a dialysis center or hospital.
 It helps healthcare staff handle patient appointments, laboratory records, billing, medicines, and staff coordination in a structured and organized way.
 
-This project was developed as an academic implementation of **Object-Oriented Programming (OOP)** and simulates real-world healthcare management workflows.
+This project was developed as an academic implementation of **Programming Fundamental (PF)** and simulates real-world healthcare management workflows.
 
 ---
 
@@ -63,7 +63,7 @@ This project was developed as an academic implementation of **Object-Oriented Pr
 
 This system was created for **educational and learning purposes** to demonstrate:
 
-* Object-Oriented Design
+* Programming Fundamental (PF)
 * Modular System Development
 * File Handling Techniques
 * Real-world Problem Simulation
@@ -74,7 +74,7 @@ This system was created for **educational and learning purposes** to demonstrate
 ## 🛠 Technologies Used
 
 * **C++**
-* Object-Oriented Programming (OOP)
+* Programming Fundamental (PF)
 * File Handling
 * Modular Design Approach
 * Console-Based Interface
